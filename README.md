@@ -18,3 +18,11 @@ Notes about all that I have learned...
 
 ## 3) Why DevOps?
 - DevOps combines development and operations to increase the efficiency, speed and security of software development and delivery compared to traditional process.
+
+## 4) Software Development Life Cycle(SDLC) :-
+- SDLC is a process that is followed by the industry to design, develop and test the high quality product.
+- Produce high quality product :-
+    - Design
+    - Develop
+    - Test
+- Standerd of SDLC :-
