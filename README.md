@@ -40,7 +40,7 @@ above 6 stages are the standards of the SDLC.
 - In this automate process we are focusing on building, testing and deployment process.
 
 
-## Virtual Machine :-
+## 5) Virtual Machine :-
 -   What is Virtual Machine?
     - It is a compute resource that uses software
         insted of a physical computer to run program and deploy apps.
