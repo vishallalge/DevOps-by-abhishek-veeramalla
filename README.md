@@ -52,3 +52,19 @@ above 6 stages are the standards of the SDLC.
     - Every VM has its own operating system and application.
     - The Hypervisor allocates the underlying physical computing resource such as CPU and memory to individual VM as required.
 
+- [How to create aws account, create virtual machine and launch EC2 instance?](https://youtu.be/QDymcZ5xYow?si=Q92nMxRqoEkrErAh)
+
+## 6) Steps to connect your EC2 instance with terminal :- 
+- Run this command :
+-> ssh ubuntu@yourPublicAddress
+
+then it will ask for the fingerprint say 'yes', 
+it will denied permission for connection beacuse you did not provide any key value pair file.
+
+- For provide that key value pair file you need to run this command 
+-> ssh -i /path of your key value pair file.pem ubuntu@yourPublicIPAddress
+
+- If in case it gives an error(your .pem file is too open), then you need to change the permission by using below command 
+-> chmod 600 /.pem file path
+
+- Again run second command for login in virtual machine. 
