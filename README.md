@@ -25,7 +25,7 @@ Notes about all that I have learned...
     - Design
     - Develop
     - Test
-- Standerd of SDLC :-
+- standards of SDLC :-
     - Planning -> understand the requirement of the customers.
     - Defining -> documenting the things that we want
     - Designing -> focus on high level design (HLD) and low level design (LLD).
