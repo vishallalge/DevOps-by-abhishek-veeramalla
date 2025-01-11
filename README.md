@@ -25,7 +25,7 @@ Notes about all that I have learned...
     - Design
     - Develop
     - Test
-- standards of SDLC :-
+- Standerd of SDLC :-
     - Planning -> understand the requirement of the customers.
     - Defining -> documenting the things that we want
     - Designing -> focus on high level design (HLD) and low level design (LLD).
@@ -68,3 +68,46 @@ it will denied permission for connection beacuse you did not provide any key val
 -> chmod 600 /.pem file path
 
 - Again run second command for login in virtual machine. 
+
+## 6) Linux :- 
+- Why linux OS is using in many companies?
+    - linux is a free os
+    - linux is very secure
+    - linux is fast
+    - linux provides different kinds of distribution.
+
+- Architecture of linux OS:
+    - level - 1)
+        - system software
+        - user process
+        - companies
+    - level - 2)
+        - System Libraries
+    - level - 3) 
+        - Kernel
+
+- What is Kernel?
+    
+    -> heart of your operating system
+    
+    -> establish the communication between your hadware and software
+
+    -> manage devices
+    
+    -> memory management
+    
+    -> process management 
+
+    -> handles system calls
+
+- What is system libraries?
+    
+    -> Responsible for the performing the tasks 
+
+    -> ex. libc is a system library.
+
+- What is operating system?
+    
+    software <--> OS <--> hardware
+
+    -> we use OS to establish the connection between software and hardware.
